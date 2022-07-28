@@ -1,0 +1,17 @@
+D:\MyRepos\LearnCs\Mosh\CSharpIntermediate\Interfaces.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\MyRepos\LearnCs\Mosh\CSharpIntermediate\Interfaces.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\MyRepos\LearnCs\Mosh\CSharpIntermediate\Interfaces.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\MyRepos\LearnCs\Mosh\CSharpIntermediate\Interfaces.Tests\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+D:\MyRepos\LearnCs\Mosh\CSharpIntermediate\Interfaces.Tests\bin\Debug\Interfaces.UnitTests.dll
+D:\MyRepos\LearnCs\Mosh\CSharpIntermediate\Interfaces.Tests\bin\Debug\Interfaces.UnitTests.pdb
+D:\MyRepos\LearnCs\Mosh\CSharpIntermediate\Interfaces.Tests\bin\Debug\Interfaces.dll
+D:\MyRepos\LearnCs\Mosh\CSharpIntermediate\Interfaces.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\MyRepos\LearnCs\Mosh\CSharpIntermediate\Interfaces.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\MyRepos\LearnCs\Mosh\CSharpIntermediate\Interfaces.Tests\bin\Debug\Interfaces.pdb
+D:\MyRepos\LearnCs\Mosh\CSharpIntermediate\Interfaces.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\MyRepos\LearnCs\Mosh\CSharpIntermediate\Interfaces.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\MyRepos\LearnCs\Mosh\CSharpIntermediate\Interfaces.Tests\obj\Debug\Interfaces.UnitTests.csproj.AssemblyReference.cache
+D:\MyRepos\LearnCs\Mosh\CSharpIntermediate\Interfaces.Tests\obj\Debug\Interfaces.UnitTests.csproj.CoreCompileInputs.cache
+D:\MyRepos\LearnCs\Mosh\CSharpIntermediate\Interfaces.Tests\obj\Debug\Interfaces.UnitTests.csproj.CopyComplete
+D:\MyRepos\LearnCs\Mosh\CSharpIntermediate\Interfaces.Tests\obj\Debug\Interfaces.UnitTests.dll
+D:\MyRepos\LearnCs\Mosh\CSharpIntermediate\Interfaces.Tests\obj\Debug\Interfaces.UnitTests.pdb

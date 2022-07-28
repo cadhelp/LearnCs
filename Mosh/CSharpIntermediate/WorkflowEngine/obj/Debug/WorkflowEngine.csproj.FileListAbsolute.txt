@@ -1,0 +1,6 @@
+D:\MyRepos\LearnCs\Mosh\CSharpIntermediate\WorkflowEngine\bin\Debug\WorkflowEngine.dll
+D:\MyRepos\LearnCs\Mosh\CSharpIntermediate\WorkflowEngine\bin\Debug\WorkflowEngine.pdb
+D:\MyRepos\LearnCs\Mosh\CSharpIntermediate\WorkflowEngine\obj\Debug\WorkflowEngine.csproj.AssemblyReference.cache
+D:\MyRepos\LearnCs\Mosh\CSharpIntermediate\WorkflowEngine\obj\Debug\WorkflowEngine.csproj.CoreCompileInputs.cache
+D:\MyRepos\LearnCs\Mosh\CSharpIntermediate\WorkflowEngine\obj\Debug\WorkflowEngine.dll
+D:\MyRepos\LearnCs\Mosh\CSharpIntermediate\WorkflowEngine\obj\Debug\WorkflowEngine.pdb

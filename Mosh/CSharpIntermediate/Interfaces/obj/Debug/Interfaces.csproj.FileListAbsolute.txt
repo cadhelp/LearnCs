@@ -1,0 +1,6 @@
+D:\MyRepos\LearnCs\Mosh\CSharpIntermediate\Interfaces\bin\Debug\Interfaces.dll
+D:\MyRepos\LearnCs\Mosh\CSharpIntermediate\Interfaces\bin\Debug\Interfaces.pdb
+D:\MyRepos\LearnCs\Mosh\CSharpIntermediate\Interfaces\obj\Debug\Interfaces.csproj.AssemblyReference.cache
+D:\MyRepos\LearnCs\Mosh\CSharpIntermediate\Interfaces\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
+D:\MyRepos\LearnCs\Mosh\CSharpIntermediate\Interfaces\obj\Debug\Interfaces.dll
+D:\MyRepos\LearnCs\Mosh\CSharpIntermediate\Interfaces\obj\Debug\Interfaces.pdb

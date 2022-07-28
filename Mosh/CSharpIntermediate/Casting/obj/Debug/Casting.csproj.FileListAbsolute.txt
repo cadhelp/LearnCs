@@ -1,0 +1,6 @@
+D:\MyRepos\LearnCs\Mosh\CSharpIntermediate\Casting\bin\Debug\Casting.dll
+D:\MyRepos\LearnCs\Mosh\CSharpIntermediate\Casting\bin\Debug\Casting.pdb
+D:\MyRepos\LearnCs\Mosh\CSharpIntermediate\Casting\obj\Debug\Casting.csproj.AssemblyReference.cache
+D:\MyRepos\LearnCs\Mosh\CSharpIntermediate\Casting\obj\Debug\Casting.csproj.CoreCompileInputs.cache
+D:\MyRepos\LearnCs\Mosh\CSharpIntermediate\Casting\obj\Debug\Casting.dll
+D:\MyRepos\LearnCs\Mosh\CSharpIntermediate\Casting\obj\Debug\Casting.pdb

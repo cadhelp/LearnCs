@@ -1,0 +1,6 @@
+D:\MyRepos\LearnCs\Mosh\CSharpIntermediate\PolyOverriding\bin\Debug\PolyOverriding.dll
+D:\MyRepos\LearnCs\Mosh\CSharpIntermediate\PolyOverriding\bin\Debug\PolyOverriding.pdb
+D:\MyRepos\LearnCs\Mosh\CSharpIntermediate\PolyOverriding\obj\Debug\PolyOverriding.csproj.AssemblyReference.cache
+D:\MyRepos\LearnCs\Mosh\CSharpIntermediate\PolyOverriding\obj\Debug\PolyOverriding.csproj.CoreCompileInputs.cache
+D:\MyRepos\LearnCs\Mosh\CSharpIntermediate\PolyOverriding\obj\Debug\PolyOverriding.dll
+D:\MyRepos\LearnCs\Mosh\CSharpIntermediate\PolyOverriding\obj\Debug\PolyOverriding.pdb

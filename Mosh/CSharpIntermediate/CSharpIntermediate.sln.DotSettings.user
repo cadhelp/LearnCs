@@ -1,0 +1,10 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=9ff60183_002D7849_002D47dc_002D8827_002D4f592466e124/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Process_OrderIsNotShipped_ShouldSetTheShipmentPropertyOfTheOrder" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;MSTest::B9040C41-4DCD-4BDB-A70C-D294D28C0AEA::.NETFramework,Version=v4.8::Interfaces.UnitTests.OrderProcessorTests.Process_OrderIsNotShipped_ShouldSetTheShipmentPropertyOfTheOrder&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::B9040C41-4DCD-4BDB-A70C-D294D28C0AEA::.NETFramework,Version=v4.8::Interfaces.UnitTests.OrderProcessorTests.Process_OrderIsAlreadyShipped_ThrowsAnException&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::B9040C41-4DCD-4BDB-A70C-D294D28C0AEA::.NETFramework,Version=v4.8::Interfaces.Tests.ShippingCalculatorTests.CalculateShippingTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::B9040C41-4DCD-4BDB-A70C-D294D28C0AEA::.NETFramework,Version=v4.8::Interfaces.Tests.ShippingCalculatorTests.CalculateShipping_TotalPriceIsGreaterThanThirty_FreeShipping&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::B9040C41-4DCD-4BDB-A70C-D294D28C0AEA::.NETFramework,Version=v4.8::Interfaces.UnitTests.ShippingCalculatorTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

@@ -1,0 +1,12 @@
+D:\MyRepos\LearnCs\Mosh\CSharpIntermediate\Inheritances\bin\Debug\net6.0\Inheritances.deps.json
+D:\MyRepos\LearnCs\Mosh\CSharpIntermediate\Inheritances\bin\Debug\net6.0\Inheritances.dll
+D:\MyRepos\LearnCs\Mosh\CSharpIntermediate\Inheritances\bin\Debug\net6.0\Inheritances.pdb
+D:\MyRepos\LearnCs\Mosh\CSharpIntermediate\Inheritances\obj\Debug\net6.0\Inheritances.csproj.AssemblyReference.cache
+D:\MyRepos\LearnCs\Mosh\CSharpIntermediate\Inheritances\obj\Debug\net6.0\Inheritances.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyRepos\LearnCs\Mosh\CSharpIntermediate\Inheritances\obj\Debug\net6.0\Inheritances.AssemblyInfoInputs.cache
+D:\MyRepos\LearnCs\Mosh\CSharpIntermediate\Inheritances\obj\Debug\net6.0\Inheritances.AssemblyInfo.cs
+D:\MyRepos\LearnCs\Mosh\CSharpIntermediate\Inheritances\obj\Debug\net6.0\Inheritances.csproj.CoreCompileInputs.cache
+D:\MyRepos\LearnCs\Mosh\CSharpIntermediate\Inheritances\obj\Debug\net6.0\Inheritances.dll
+D:\MyRepos\LearnCs\Mosh\CSharpIntermediate\Inheritances\obj\Debug\net6.0\refint\Inheritances.dll
+D:\MyRepos\LearnCs\Mosh\CSharpIntermediate\Inheritances\obj\Debug\net6.0\Inheritances.pdb
+D:\MyRepos\LearnCs\Mosh\CSharpIntermediate\Inheritances\obj\Debug\net6.0\ref\Inheritances.dll

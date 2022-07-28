@@ -1,0 +1,6 @@
+D:\MyRepos\LearnCs\Mosh\CSharpIntermediate\Extensibility\bin\Debug\Extensibility.dll
+D:\MyRepos\LearnCs\Mosh\CSharpIntermediate\Extensibility\bin\Debug\Extensibility.pdb
+D:\MyRepos\LearnCs\Mosh\CSharpIntermediate\Extensibility\obj\Debug\Extensibility.csproj.AssemblyReference.cache
+D:\MyRepos\LearnCs\Mosh\CSharpIntermediate\Extensibility\obj\Debug\Extensibility.csproj.CoreCompileInputs.cache
+D:\MyRepos\LearnCs\Mosh\CSharpIntermediate\Extensibility\obj\Debug\Extensibility.dll
+D:\MyRepos\LearnCs\Mosh\CSharpIntermediate\Extensibility\obj\Debug\Extensibility.pdb
