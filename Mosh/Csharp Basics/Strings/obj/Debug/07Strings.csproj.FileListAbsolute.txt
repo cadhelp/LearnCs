@@ -1,0 +1,8 @@
+D:\MyRepos\LearnCs\Mosh\Csharp Basics\Strings\obj\Debug\07Strings.csproj.AssemblyReference.cache
+D:\MyRepos\LearnCs\Mosh\Csharp Basics\Strings\obj\Debug\07Strings.csproj.SuggestedBindingRedirects.cache
+D:\MyRepos\LearnCs\Mosh\Csharp Basics\Strings\obj\Debug\07Strings.csproj.CoreCompileInputs.cache
+D:\MyRepos\LearnCs\Mosh\Csharp Basics\Strings\bin\Debug\Strings.exe.config
+D:\MyRepos\LearnCs\Mosh\Csharp Basics\Strings\bin\Debug\Strings.exe
+D:\MyRepos\LearnCs\Mosh\Csharp Basics\Strings\bin\Debug\Strings.pdb
+D:\MyRepos\LearnCs\Mosh\Csharp Basics\Strings\obj\Debug\Strings.exe
+D:\MyRepos\LearnCs\Mosh\Csharp Basics\Strings\obj\Debug\Strings.pdb

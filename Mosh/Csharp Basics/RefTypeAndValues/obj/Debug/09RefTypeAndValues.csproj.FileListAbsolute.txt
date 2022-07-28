@@ -1,0 +1,8 @@
+D:\MyRepos\LearnCs\Mosh\Csharp Basics\RefTypeAndValues\bin\Debug\RefTypeAndValues.exe.config
+D:\MyRepos\LearnCs\Mosh\Csharp Basics\RefTypeAndValues\bin\Debug\RefTypeAndValues.exe
+D:\MyRepos\LearnCs\Mosh\Csharp Basics\RefTypeAndValues\bin\Debug\RefTypeAndValues.pdb
+D:\MyRepos\LearnCs\Mosh\Csharp Basics\RefTypeAndValues\obj\Debug\09RefTypeAndValues.csproj.AssemblyReference.cache
+D:\MyRepos\LearnCs\Mosh\Csharp Basics\RefTypeAndValues\obj\Debug\09RefTypeAndValues.csproj.SuggestedBindingRedirects.cache
+D:\MyRepos\LearnCs\Mosh\Csharp Basics\RefTypeAndValues\obj\Debug\09RefTypeAndValues.csproj.CoreCompileInputs.cache
+D:\MyRepos\LearnCs\Mosh\Csharp Basics\RefTypeAndValues\obj\Debug\RefTypeAndValues.exe
+D:\MyRepos\LearnCs\Mosh\Csharp Basics\RefTypeAndValues\obj\Debug\RefTypeAndValues.pdb

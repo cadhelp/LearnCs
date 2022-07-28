@@ -1,0 +1,8 @@
+D:\MyRepos\LearnCs\Mosh\Csharp Basics\TypeConversion\bin\Debug\TypeConversion.exe.config
+D:\MyRepos\LearnCs\Mosh\Csharp Basics\TypeConversion\bin\Debug\TypeConversion.exe
+D:\MyRepos\LearnCs\Mosh\Csharp Basics\TypeConversion\bin\Debug\TypeConversion.pdb
+D:\MyRepos\LearnCs\Mosh\Csharp Basics\TypeConversion\obj\Debug\03TypeConversion.csproj.AssemblyReference.cache
+D:\MyRepos\LearnCs\Mosh\Csharp Basics\TypeConversion\obj\Debug\03TypeConversion.csproj.SuggestedBindingRedirects.cache
+D:\MyRepos\LearnCs\Mosh\Csharp Basics\TypeConversion\obj\Debug\03TypeConversion.csproj.CoreCompileInputs.cache
+D:\MyRepos\LearnCs\Mosh\Csharp Basics\TypeConversion\obj\Debug\TypeConversion.exe
+D:\MyRepos\LearnCs\Mosh\Csharp Basics\TypeConversion\obj\Debug\TypeConversion.pdb

@@ -1,0 +1,8 @@
+D:\MyRepos\LearnCs\Mosh\Csharp Basics\Debugging\bin\Debug\Debugging.exe.config
+D:\MyRepos\LearnCs\Mosh\Csharp Basics\Debugging\bin\Debug\Debugging.exe
+D:\MyRepos\LearnCs\Mosh\Csharp Basics\Debugging\bin\Debug\Debugging.pdb
+D:\MyRepos\LearnCs\Mosh\Csharp Basics\Debugging\obj\Debug\17Debugging.csproj.AssemblyReference.cache
+D:\MyRepos\LearnCs\Mosh\Csharp Basics\Debugging\obj\Debug\17Debugging.csproj.SuggestedBindingRedirects.cache
+D:\MyRepos\LearnCs\Mosh\Csharp Basics\Debugging\obj\Debug\17Debugging.csproj.CoreCompileInputs.cache
+D:\MyRepos\LearnCs\Mosh\Csharp Basics\Debugging\obj\Debug\Debugging.exe
+D:\MyRepos\LearnCs\Mosh\Csharp Basics\Debugging\obj\Debug\Debugging.pdb

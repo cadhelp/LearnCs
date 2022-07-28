@@ -1,0 +1,8 @@
+D:\MyRepos\LearnCs\Mosh\Csharp Basics\Iterations\bin\Debug\Iterations.exe.config
+D:\MyRepos\LearnCs\Mosh\Csharp Basics\Iterations\bin\Debug\Iterations.exe
+D:\MyRepos\LearnCs\Mosh\Csharp Basics\Iterations\bin\Debug\Iterations.pdb
+D:\MyRepos\LearnCs\Mosh\Csharp Basics\Iterations\obj\Debug\Iterations.csproj.AssemblyReference.cache
+D:\MyRepos\LearnCs\Mosh\Csharp Basics\Iterations\obj\Debug\Iterations.csproj.SuggestedBindingRedirects.cache
+D:\MyRepos\LearnCs\Mosh\Csharp Basics\Iterations\obj\Debug\Iterations.csproj.CoreCompileInputs.cache
+D:\MyRepos\LearnCs\Mosh\Csharp Basics\Iterations\obj\Debug\Iterations.exe
+D:\MyRepos\LearnCs\Mosh\Csharp Basics\Iterations\obj\Debug\Iterations.pdb

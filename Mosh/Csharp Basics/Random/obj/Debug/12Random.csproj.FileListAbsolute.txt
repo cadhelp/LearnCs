@@ -1,0 +1,8 @@
+D:\MyRepos\LearnCs\Mosh\Csharp Basics\Random\bin\Debug\Random.exe.config
+D:\MyRepos\LearnCs\Mosh\Csharp Basics\Random\bin\Debug\Random.exe
+D:\MyRepos\LearnCs\Mosh\Csharp Basics\Random\bin\Debug\Random.pdb
+D:\MyRepos\LearnCs\Mosh\Csharp Basics\Random\obj\Debug\12Random.csproj.AssemblyReference.cache
+D:\MyRepos\LearnCs\Mosh\Csharp Basics\Random\obj\Debug\12Random.csproj.SuggestedBindingRedirects.cache
+D:\MyRepos\LearnCs\Mosh\Csharp Basics\Random\obj\Debug\12Random.csproj.CoreCompileInputs.cache
+D:\MyRepos\LearnCs\Mosh\Csharp Basics\Random\obj\Debug\Random.exe
+D:\MyRepos\LearnCs\Mosh\Csharp Basics\Random\obj\Debug\Random.pdb

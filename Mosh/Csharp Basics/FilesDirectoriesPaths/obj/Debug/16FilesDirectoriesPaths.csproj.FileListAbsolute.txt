@@ -1,0 +1,8 @@
+D:\MyRepos\LearnCs\Mosh\Csharp Basics\FilesDirectoriesPaths\obj\Debug\16FilesDirectoriesPaths.csproj.AssemblyReference.cache
+D:\MyRepos\LearnCs\Mosh\Csharp Basics\FilesDirectoriesPaths\obj\Debug\16FilesDirectoriesPaths.csproj.SuggestedBindingRedirects.cache
+D:\MyRepos\LearnCs\Mosh\Csharp Basics\FilesDirectoriesPaths\obj\Debug\16FilesDirectoriesPaths.csproj.CoreCompileInputs.cache
+D:\MyRepos\LearnCs\Mosh\Csharp Basics\FilesDirectoriesPaths\bin\Debug\FilesDirectoriesPaths.exe.config
+D:\MyRepos\LearnCs\Mosh\Csharp Basics\FilesDirectoriesPaths\bin\Debug\FilesDirectoriesPaths.exe
+D:\MyRepos\LearnCs\Mosh\Csharp Basics\FilesDirectoriesPaths\bin\Debug\FilesDirectoriesPaths.pdb
+D:\MyRepos\LearnCs\Mosh\Csharp Basics\FilesDirectoriesPaths\obj\Debug\FilesDirectoriesPaths.exe
+D:\MyRepos\LearnCs\Mosh\Csharp Basics\FilesDirectoriesPaths\obj\Debug\FilesDirectoriesPaths.pdb

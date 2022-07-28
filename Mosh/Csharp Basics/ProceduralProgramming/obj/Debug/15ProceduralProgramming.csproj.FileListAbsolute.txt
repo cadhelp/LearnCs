@@ -1,0 +1,8 @@
+D:\MyRepos\LearnCs\Mosh\Csharp Basics\ProceduralProgramming\bin\Debug\ProceduralProgramming.exe.config
+D:\MyRepos\LearnCs\Mosh\Csharp Basics\ProceduralProgramming\bin\Debug\ProceduralProgramming.exe
+D:\MyRepos\LearnCs\Mosh\Csharp Basics\ProceduralProgramming\bin\Debug\ProceduralProgramming.pdb
+D:\MyRepos\LearnCs\Mosh\Csharp Basics\ProceduralProgramming\obj\Debug\15ProceduralProgramming.csproj.AssemblyReference.cache
+D:\MyRepos\LearnCs\Mosh\Csharp Basics\ProceduralProgramming\obj\Debug\15ProceduralProgramming.csproj.SuggestedBindingRedirects.cache
+D:\MyRepos\LearnCs\Mosh\Csharp Basics\ProceduralProgramming\obj\Debug\15ProceduralProgramming.csproj.CoreCompileInputs.cache
+D:\MyRepos\LearnCs\Mosh\Csharp Basics\ProceduralProgramming\obj\Debug\ProceduralProgramming.exe
+D:\MyRepos\LearnCs\Mosh\Csharp Basics\ProceduralProgramming\obj\Debug\ProceduralProgramming.pdb

@@ -1,0 +1,8 @@
+D:\MyRepos\LearnCs\Mosh\Csharp Basics\Enums\bin\Debug\Enums.exe.config
+D:\MyRepos\LearnCs\Mosh\Csharp Basics\Enums\bin\Debug\Enums.exe
+D:\MyRepos\LearnCs\Mosh\Csharp Basics\Enums\bin\Debug\Enums.pdb
+D:\MyRepos\LearnCs\Mosh\Csharp Basics\Enums\obj\Debug\08Enums.csproj.AssemblyReference.cache
+D:\MyRepos\LearnCs\Mosh\Csharp Basics\Enums\obj\Debug\08Enums.csproj.SuggestedBindingRedirects.cache
+D:\MyRepos\LearnCs\Mosh\Csharp Basics\Enums\obj\Debug\08Enums.csproj.CoreCompileInputs.cache
+D:\MyRepos\LearnCs\Mosh\Csharp Basics\Enums\obj\Debug\Enums.exe
+D:\MyRepos\LearnCs\Mosh\Csharp Basics\Enums\obj\Debug\Enums.pdb
